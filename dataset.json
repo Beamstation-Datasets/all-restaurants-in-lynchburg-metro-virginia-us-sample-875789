@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant census for the Lynchburg (Metro), Virginia metro, covering Lynchburg. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Lynchburg (Metro), Virginia, US",
-  "export_job_id": "145aa2b8-e2f9-477c-bca7-deebaede6fee",
+  "export_job_id": "576c8554-47d1-44fc-93c6-c8ce6461decc",
   "github_org": "Beamstation-Datasets",
   "id_short": 875789,
   "location_name": "Lynchburg, VA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-lynchburg-metro-virginia-us-sample-875789",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/875789/beamstation_875789_restaurants-us-lynchburgva_SAMPLE_DIST.csv",
   "sample_pct": 9.89,
-  "sample_records": 54,
-  "sample_sha256": "2786d94d07ff42fadaead4c778b016a309b87c1ed7dbb2a49771942ac2953943",
-  "sample_size_bytes": 209262,
-  "total_records": 546,
-  "updated_at": "2026-04-14T12:35:54.973315+00:00"
+  "sample_records": 43,
+  "sample_sha256": "e4d594ab79224cd5533aa9d9e18ffb132996d3cdc5c31872e427a3eed583fa1c",
+  "sample_size_bytes": 171484,
+  "total_records": 435,
+  "updated_at": "2026-04-21T13:24:49.296464+00:00"
 }
